@@ -57,6 +57,7 @@ Easily identify and fix pages without internal links, dramatically improving you
 - SEO optimization guides
 - Internal linking strategies
 - WordPress content management tips
+- An Alternative for Link Whisper is [Linksy](https://github.com/Linksy-Review/)
 
 More Information about SEO at https://t.me/tllseo
 
